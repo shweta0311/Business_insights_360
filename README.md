@@ -12,7 +12,7 @@ To surpass competitors and enable data-driven decision-making, the company has d
 I worked on this project by following the Codebasics PowerBi Course,
 
 here is my report link :
-"https://app.powerbi.com/view?r=eyJrIjoiNTdjYzNiNTEtOTViYy00OTFhLWIxYmUtNTM4MjcxMjIyODUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+"https://app.powerbi.com/view?r=eyJrIjoiNTdjYzNiNTEtOTViYy00OTFhLWIxYmUtNTM4MjcxMjIyODUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" 
 
 Before starting the analysis, understanding the datasets is important. The datasets consist of two tables:
 
